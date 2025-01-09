@@ -1,0 +1,73 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 20px;
+  padding: 0;
+}
+
+/* Header Styles */
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+/* Font Lucida Sans */
+header h1 {
+  color: #333;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+/* Font Copperplate Gothic Light */
+header p {
+  font-size: 18px;
+  color: #666;
+  font-family: Copperplate Gothic Light;
+}
+
+/* Exercise Box Styles */
+.exercise-box {
+  width: 80%;
+  padding: 20px;
+  margin: 20px auto;
+  border: 2px dashed #333;
+  text-align: center;
+  background-color: #ffffff;
+  /* Default background color */
+  font-family: Arial, sans-serif;
+  /* Default font */
+}
+
+.exercise-box p {
+  margin: 0;
+  font-size: 16px;
+}
+
+/* background color lightblue and the font Arial (default font) */
+#box1 {
+  background-color: lightblue;
+}
+/* background color lightgreen and the font Times New Roman */
+#box2 {
+  background-color: lightgreen;
+  font-family: "Times New Roman", Times, serif;
+}
+/* background color lightcoral and the font Verdana */
+#box3 {
+  background-color: lightcoral;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* background color lightgoldenrodyellow and the font Courier New */
+#box4 {
+  background-color: lightgoldenrodyellow;
+  font-family: "Courier New", Courier, monospace;
+}
+/* background color lightsalmon and the font Georgia */
+#box5 {
+  background-color: lightsalmon;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+/* background color lightpink and the font Comic Sans MS */
+#box6 {
+  background-color: lightpink;
+  font-family: Comic Sans MS;
+}
